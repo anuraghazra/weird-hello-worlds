@@ -25,5 +25,5 @@
 
 // ----- Your Contributions Here ----- (add one by one)
 
-// Submited By YOUR_NAME
+// submitted By YOUR_NAME
 // your weird hello world code here

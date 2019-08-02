@@ -14,7 +14,7 @@ just open the **hello_worlds.js** file and add your contribution at the end of t
 
 ...
 
-// Submited By YOUR_NAME
+// submitted By YOUR_NAME
 console.log('hello weird world')
 
 ```
